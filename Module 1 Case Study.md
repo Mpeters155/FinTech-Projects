@@ -78,5 +78,5 @@ https://www.fool.com/investing/general/2016/03/28/key-metrics-how-paypal-boosts-
 https://www.enterpriseappstoday.com/stats/stripe-statistics.html#:~:text=around%20%242.9%20billion.-,There%20are%20around%203.1%20million%20websites%20around%20the%20world%2C%20which,stripe%20has%202%20million%20customers.
 
 ##
-![PayPal Banner](image.png)
+![PayPal Banner](PayPal Banner.png)
 ##
