@@ -33,3 +33,12 @@ pychain.py located in Module-18-Project, starter code directory.
 #### Pychain Validation
 ![{Pychain Validation}](<Module-18-Project/Starter_Code/Pychain_validation.png>)
 
+### Module 19
+krypto_jobs.py, crypto_wallet.py located in Module-19_Project.
+### Screenshots for krypto_jobs.py
+#### Running Streamlit app from Terminal
+![{Running Streamlit from Terminal}](<Module-19-Project/Terminal_run.png>)
+#### Successful Transaction in Streamlit
+![{Successful Transaction in Streamlit app}](<Module-19-Project/Streamlit_app_successful.png>)
+#### Ganache Transactions
+![{Ganache Transactions Page}](<Module-19-Project/Ganache_successful.png>)
