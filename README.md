@@ -42,3 +42,16 @@ krypto_jobs.py, crypto_wallet.py located in Module-19_Project.
 ![{Successful Transaction in Streamlit app}](<Module-19-Project/Streamlit_app_successful.png>)
 #### Ganache Transactions
 ![{Ganache Transactions Page}](<Module-19-Project/Ganache_successful.png>)
+
+### Module 20
+joint_savings.sol, located in Module-20-Project, Starter_Code directory.
+### Screenshots for joint_savings.sol
+#### Set Accounts
+![{Setting Accounts}](<Module-20-Project/Starter_Code/Execution_Results/Set_accounts.png>)
+#### Transactions 1, 2, 3
+![{Transaction 1}](<Module-20-Project/Starter_Code/Execution_Results/Transaction_1.png>)
+![{Transaction 2}](<Module-20-Project/Starter_Code/Execution_Results/Transaction_2.png>)
+![{Transaction 3}](<Module-20-Project/Starter_Code/Execution_Results/Transaction_3.png>)
+#### Withdraws 1, 2
+![{Withdrawal 1}](<Module-20-Project/Starter_Code/Execution_Results/Withdrawal_1.png>)
+![{Withdrawal 2}](<Module-20-Project/Starter_Code/Execution_Results/Withdrawal_2.png>)
